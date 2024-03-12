@@ -1,4 +1,4 @@
-module github.com/codenamor/custom_logging
+module github.com/CodeNamor/custom_logging
 
 go 1.18
 
