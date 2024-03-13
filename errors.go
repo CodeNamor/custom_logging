@@ -6,11 +6,6 @@ import (
 	"strings"
 )
 
-const (
-	maxStackLength = 50
-	skipLevelThree = 3
-)
-
 type Error struct {
 	Err        error
 	StackTrace string
